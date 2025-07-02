@@ -25,7 +25,7 @@ Given the volume and complexity of survey responses (73 questions in 2020, 109 i
 - Productivity (self-assessment, managerial view, occupational variation)
 - Morale and wellbeing (barriers, time use, mental health)
 - Policy formulation (employee expectations, retention, and attraction)
-- 
+
 Where appropriate, categorical responses were consolidated (e.g., Likert scales or % brackets) to enhance clarity and enable year-over-year comparison. Unpivot techniques in Power Query were used to normalize multi-variable responses and prepare the data for visualization and aggregation in Power BI.
 
 ## 4. Analytical Findings
@@ -79,11 +79,11 @@ This tagging process served as the analytical backbone for the entire dashboard.
 ### 5.3. 2021 Key Questions Extracted
 The following are selected examples of questions from the 2021 dataset that were identified as central to the project's objectives:
 
-**- Productivity:**
+**Productivity:**
   - Self-assessment of productivity while working remotely vs. in-office.
   - Manager assessments of team productivity during remote work.
 
-**- Morale and Wellbeing:**
+**Morale and Wellbeing:**
   - Questions on whether barriers such as _motivation, isolation, poor management,_ and _health and safety_ had worsened or improved.
   - Statements measuring emotional and physical wellbeing, such as:
     - “I feel better on days I work remotely”
@@ -91,7 +91,7 @@ The following are selected examples of questions from the 2021 dataset that were
     - “I feel better when seeing colleagues in person”
   - Quantitative time-use responses on how daily hours were redistributed across activities such as commuting, sleep, work, and family time.
 
-**- Policy Preferences:**
+**Policy Preferences:**
   - Preferred number of days working remotely post-COVID.
   - Managerial agreement with statements about remote work improving team cohesion, employee retention, and talent attraction.
 
