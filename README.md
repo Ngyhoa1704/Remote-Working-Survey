@@ -1,7 +1,7 @@
 # Remote Work and Its Implications on Productivity, Morale, and Future Policy
 ![image](https://github.com/user-attachments/assets/8ba2ff6e-9f34-4ae1-8a13-6ec912cff222)
 
-If you want to view detailed my thought process before handling this project, please access the Google Docs link below:
+If you want to view detailed my thought process before handling this project, please access the Google Docs link below or the PDF file provided:
 https://docs.google.com/document/d/1iCmeLSC9ItpE73MnTdm_BrgQM0LAgDMMbG2I_oFwEkk/edit?tab=t.0
 ## Project Summary Report
 **Research Context:** Survey of 1,500 remote workers in New South Wales (NSW), Australia
